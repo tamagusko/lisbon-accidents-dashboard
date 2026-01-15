@@ -1,0 +1,101 @@
+id,date,hour,latitude,longitude,district,parish,road_type,weather,light_conditions,road_condition,num_vehicles,num_pedestrians,injuries_light,injuries_serious,fatalities_30d,accident_type,speed_limit,day_of_week
+1,2023-01-05,8,38.7223,-9.1393,Lisboa,Santa Maria Maior,Primary,Clear,Daylight,Dry,2,0,1,0,0,Rear-end collision,50,Thursday
+2,2023-01-07,14,38.7437,-9.1465,Lisboa,Arroios,Secondary,Clear,Daylight,Dry,2,0,0,0,0,Side collision,30,Saturday
+3,2023-01-10,19,38.7689,-9.1567,Lisboa,Lumiar,Primary,Rain,Artificial light,Wet,3,0,2,1,0,Multiple collision,50,Tuesday
+4,2023-01-12,23,38.7156,-9.1289,Lisboa,Misericórdia,Secondary,Clear,Artificial light,Dry,1,1,1,0,0,Pedestrian hit,30,Thursday
+5,2023-01-15,7,38.7512,-9.1876,Lisboa,Benfica,Highway,Clear,Daylight,Dry,4,0,1,0,0,Rear-end collision,80,Sunday
+6,2023-01-18,17,38.7345,-9.1423,Lisboa,São Vicente,Primary,Cloudy,Daylight,Dry,2,0,0,0,0,Side collision,50,Wednesday
+7,2023-01-20,12,38.7598,-9.1234,Lisboa,Marvila,Secondary,Clear,Daylight,Dry,2,0,1,0,0,Side collision,30,Friday
+8,2023-01-22,21,38.7134,-9.1567,Lisboa,Estrela,Primary,Rain,Artificial light,Wet,2,0,0,1,0,Rear-end collision,50,Sunday
+9,2023-01-25,9,38.7423,-9.1678,Lisboa,Avenidas Novas,Primary,Clear,Daylight,Dry,2,0,0,0,0,Side collision,50,Wednesday
+10,2023-01-28,16,38.7267,-9.1534,Lisboa,Campo de Ourique,Secondary,Cloudy,Daylight,Dry,1,1,0,0,1,Pedestrian hit,30,Saturday
+11,2023-02-02,8,38.7789,-9.1123,Lisboa,Parque das Nações,Highway,Clear,Daylight,Dry,2,0,0,0,0,Rear-end collision,80,Thursday
+12,2023-02-05,15,38.7234,-9.1687,Lisboa,Ajuda,Secondary,Clear,Daylight,Dry,2,0,1,0,0,Side collision,30,Sunday
+13,2023-02-08,22,38.7456,-9.1345,Lisboa,Penha de França,Primary,Clear,Artificial light,Dry,3,0,2,0,0,Multiple collision,50,Wednesday
+14,2023-02-10,11,38.7123,-9.1456,Lisboa,Alcântara,Primary,Rain,Daylight,Wet,2,0,1,1,0,Rear-end collision,50,Friday
+15,2023-02-13,18,38.7678,-9.1789,Lisboa,Carnide,Secondary,Clear,Daylight,Dry,1,1,1,0,0,Pedestrian hit,30,Monday
+16,2023-02-16,7,38.7345,-9.1234,Lisboa,Beato,Primary,Fog,Daylight,Wet,4,0,0,1,0,Multiple collision,50,Thursday
+17,2023-02-19,14,38.7567,-9.1567,Lisboa,Alvalade,Secondary,Clear,Daylight,Dry,2,0,0,0,0,Side collision,30,Sunday
+18,2023-02-22,20,38.7189,-9.1678,Lisboa,Santa Clara,Highway,Clear,Artificial light,Dry,2,0,1,0,0,Rear-end collision,80,Wednesday
+19,2023-02-25,10,38.7423,-9.1123,Lisboa,São Domingos de Benfica,Primary,Cloudy,Daylight,Dry,2,0,0,0,0,Side collision,50,Saturday
+20,2023-02-28,16,38.7656,-9.1456,Lisboa,Olivais,Secondary,Clear,Daylight,Dry,1,1,0,0,0,Pedestrian hit,30,Tuesday
+21,2023-03-03,9,38.7234,-9.1789,Lisboa,Belém,Primary,Clear,Daylight,Dry,2,0,1,0,0,Rear-end collision,50,Friday
+22,2023-03-06,13,38.7489,-9.1345,Lisboa,Areeiro,Secondary,Rain,Daylight,Wet,2,0,0,1,0,Side collision,30,Monday
+23,2023-03-09,19,38.7712,-9.1567,Lisboa,Lumiar,Primary,Clear,Artificial light,Dry,3,0,2,0,0,Multiple collision,50,Thursday
+24,2023-03-12,8,38.7156,-9.1234,Lisboa,Misericórdia,Highway,Clear,Daylight,Dry,2,0,0,0,0,Rear-end collision,80,Sunday
+25,2023-03-15,15,38.7378,-9.1678,Lisboa,Arroios,Secondary,Cloudy,Daylight,Dry,1,1,1,0,0,Pedestrian hit,30,Wednesday
+26,2023-03-18,21,38.7623,-9.1123,Lisboa,Marvila,Primary,Clear,Artificial light,Dry,2,0,0,0,0,Side collision,50,Saturday
+27,2023-03-21,11,38.7267,-9.1456,Lisboa,Campo de Ourique,Secondary,Clear,Daylight,Dry,2,0,1,0,0,Side collision,30,Tuesday
+28,2023-03-24,17,38.7534,-9.1789,Lisboa,Benfica,Primary,Rain,Daylight,Wet,2,0,0,1,0,Rear-end collision,50,Friday
+29,2023-03-27,7,38.7145,-9.1345,Lisboa,Estrela,Highway,Fog,Daylight,Wet,4,0,1,0,1,Multiple collision,80,Monday
+30,2023-03-30,14,38.7456,-9.1567,Lisboa,Avenidas Novas,Secondary,Clear,Daylight,Dry,1,1,0,0,0,Pedestrian hit,30,Thursday
+31,2023-04-02,20,38.7789,-9.1234,Lisboa,Parque das Nações,Primary,Clear,Artificial light,Dry,2,0,1,0,0,Rear-end collision,50,Sunday
+32,2023-04-05,10,38.7178,-9.1678,Lisboa,Ajuda,Secondary,Clear,Daylight,Dry,2,0,0,0,0,Side collision,30,Wednesday
+33,2023-04-08,16,38.7423,-9.1123,Lisboa,Penha de França,Primary,Cloudy,Daylight,Dry,3,0,2,0,0,Multiple collision,50,Saturday
+34,2023-04-11,9,38.7689,-9.1456,Lisboa,Carnide,Highway,Clear,Daylight,Dry,2,0,0,0,0,Rear-end collision,80,Tuesday
+35,2023-04-14,13,38.7234,-9.1789,Lisboa,Alcântara,Secondary,Rain,Daylight,Wet,1,1,1,1,0,Pedestrian hit,30,Friday
+36,2023-04-17,19,38.7567,-9.1345,Lisboa,Beato,Primary,Clear,Artificial light,Dry,2,0,0,0,0,Side collision,50,Monday
+37,2023-04-20,8,38.7312,-9.1567,Lisboa,Alvalade,Secondary,Clear,Daylight,Dry,2,0,1,0,0,Side collision,30,Thursday
+38,2023-04-23,22,38.7656,-9.1234,Lisboa,Santa Clara,Primary,Clear,Artificial light,Dry,2,0,0,1,0,Rear-end collision,50,Sunday
+39,2023-04-26,12,38.7089,-9.1678,Lisboa,São Domingos de Benfica,Highway,Cloudy,Daylight,Dry,3,0,1,0,0,Multiple collision,80,Wednesday
+40,2023-04-29,17,38.7423,-9.1123,Lisboa,Olivais,Secondary,Clear,Daylight,Dry,1,1,0,0,0,Pedestrian hit,30,Saturday
+41,2023-05-02,7,38.7734,-9.1456,Lisboa,Belém,Primary,Clear,Daylight,Dry,2,0,0,0,0,Rear-end collision,50,Tuesday
+42,2023-05-05,14,38.7178,-9.1789,Lisboa,Areeiro,Secondary,Rain,Daylight,Wet,2,0,1,0,0,Side collision,30,Friday
+43,2023-05-08,20,38.7489,-9.1345,Lisboa,Lumiar,Primary,Clear,Artificial light,Dry,2,0,0,0,0,Side collision,50,Monday
+44,2023-05-11,10,38.7623,-9.1567,Lisboa,Marvila,Highway,Clear,Daylight,Dry,4,0,2,1,0,Multiple collision,80,Thursday
+45,2023-05-14,15,38.7156,-9.1234,Lisboa,Misericórdia,Secondary,Cloudy,Daylight,Dry,1,1,1,0,0,Pedestrian hit,30,Sunday
+46,2023-05-17,21,38.7378,-9.1678,Lisboa,Arroios,Primary,Clear,Artificial light,Dry,2,0,0,0,0,Rear-end collision,50,Wednesday
+47,2023-05-20,9,38.7712,-9.1123,Lisboa,Campo de Ourique,Secondary,Clear,Daylight,Dry,2,0,1,0,0,Side collision,30,Saturday
+48,2023-05-23,13,38.7245,-9.1456,Lisboa,Benfica,Primary,Rain,Daylight,Wet,3,0,0,1,0,Multiple collision,50,Tuesday
+49,2023-05-26,18,38.7534,-9.1789,Lisboa,Estrela,Highway,Clear,Daylight,Dry,2,0,0,0,0,Rear-end collision,80,Friday
+50,2023-05-29,8,38.7089,-9.1345,Lisboa,Avenidas Novas,Secondary,Clear,Daylight,Dry,1,1,0,0,0,Pedestrian hit,30,Monday
+51,2023-06-01,15,38.7456,-9.1567,Lisboa,Parque das Nações,Primary,Clear,Daylight,Dry,2,0,1,0,0,Side collision,50,Thursday
+52,2023-06-04,22,38.7789,-9.1234,Lisboa,Ajuda,Secondary,Clear,Artificial light,Dry,2,0,0,0,0,Side collision,30,Sunday
+53,2023-06-07,11,38.7134,-9.1678,Lisboa,Penha de França,Primary,Cloudy,Daylight,Dry,2,0,0,1,0,Rear-end collision,50,Wednesday
+54,2023-06-10,17,38.7423,-9.1123,Lisboa,Carnide,Highway,Clear,Daylight,Dry,3,0,2,0,0,Multiple collision,80,Saturday
+55,2023-06-13,7,38.7678,-9.1456,Lisboa,Alcântara,Secondary,Clear,Daylight,Dry,1,1,1,0,0,Pedestrian hit,30,Tuesday
+56,2023-06-16,14,38.7234,-9.1789,Lisboa,Beato,Primary,Rain,Daylight,Wet,2,0,0,0,0,Rear-end collision,50,Friday
+57,2023-06-19,20,38.7567,-9.1345,Lisboa,Alvalade,Secondary,Clear,Artificial light,Dry,2,0,1,0,0,Side collision,30,Monday
+58,2023-06-22,10,38.7312,-9.1567,Lisboa,Santa Clara,Primary,Clear,Daylight,Dry,2,0,0,0,0,Side collision,50,Thursday
+59,2023-06-25,16,38.7656,-9.1234,Lisboa,São Domingos de Benfica,Highway,Cloudy,Daylight,Dry,4,0,1,1,0,Multiple collision,80,Sunday
+60,2023-06-28,9,38.7089,-9.1678,Lisboa,Olivais,Secondary,Clear,Daylight,Dry,1,1,0,0,0,Pedestrian hit,30,Wednesday
+61,2023-07-01,13,38.7489,-9.1123,Lisboa,Belém,Primary,Clear,Daylight,Dry,2,0,0,0,0,Rear-end collision,50,Saturday
+62,2023-07-04,19,38.7734,-9.1456,Lisboa,Areeiro,Secondary,Clear,Artificial light,Dry,2,0,1,0,0,Side collision,30,Tuesday
+63,2023-07-07,8,38.7178,-9.1789,Lisboa,Lumiar,Primary,Rain,Daylight,Wet,3,0,0,1,0,Multiple collision,50,Friday
+64,2023-07-10,15,38.7423,-9.1345,Lisboa,Marvila,Highway,Clear,Daylight,Dry,2,0,0,0,0,Rear-end collision,80,Monday
+65,2023-07-13,21,38.7623,-9.1567,Lisboa,Misericórdia,Secondary,Clear,Artificial light,Dry,1,1,1,0,0,Pedestrian hit,30,Thursday
+66,2023-07-16,11,38.7156,-9.1234,Lisboa,Arroios,Primary,Cloudy,Daylight,Dry,2,0,0,0,0,Side collision,50,Sunday
+67,2023-07-19,17,38.7378,-9.1678,Lisboa,Campo de Ourique,Secondary,Clear,Daylight,Dry,2,0,1,0,0,Side collision,30,Wednesday
+68,2023-07-22,7,38.7712,-9.1123,Lisboa,Benfica,Primary,Clear,Daylight,Dry,2,0,0,1,0,Rear-end collision,50,Saturday
+69,2023-07-25,14,38.7245,-9.1456,Lisboa,Estrela,Highway,Rain,Daylight,Wet,4,0,2,0,1,Multiple collision,80,Tuesday
+70,2023-07-28,20,38.7534,-9.1789,Lisboa,Avenidas Novas,Secondary,Clear,Artificial light,Dry,1,1,0,0,0,Pedestrian hit,30,Friday
+71,2023-08-01,10,38.7089,-9.1345,Lisboa,Parque das Nações,Primary,Clear,Daylight,Dry,2,0,1,0,0,Rear-end collision,50,Tuesday
+72,2023-08-04,16,38.7456,-9.1567,Lisboa,Ajuda,Secondary,Cloudy,Daylight,Dry,2,0,0,0,0,Side collision,30,Friday
+73,2023-08-07,9,38.7789,-9.1234,Lisboa,Penha de França,Primary,Clear,Daylight,Dry,3,0,0,1,0,Multiple collision,50,Monday
+74,2023-08-10,13,38.7134,-9.1678,Lisboa,Carnide,Highway,Clear,Daylight,Dry,2,0,0,0,0,Rear-end collision,80,Thursday
+75,2023-08-13,19,38.7423,-9.1123,Lisboa,Alcântara,Secondary,Clear,Artificial light,Dry,1,1,1,0,0,Pedestrian hit,30,Sunday
+76,2023-08-16,8,38.7678,-9.1456,Lisboa,Beato,Primary,Rain,Daylight,Wet,2,0,0,0,0,Side collision,50,Wednesday
+77,2023-08-19,15,38.7234,-9.1789,Lisboa,Alvalade,Secondary,Clear,Daylight,Dry,2,0,1,0,0,Side collision,30,Saturday
+78,2023-08-22,21,38.7567,-9.1345,Lisboa,Santa Clara,Primary,Clear,Artificial light,Dry,2,0,0,1,0,Rear-end collision,50,Tuesday
+79,2023-08-25,11,38.7312,-9.1567,Lisboa,São Domingos de Benfica,Highway,Cloudy,Daylight,Dry,4,0,2,0,0,Multiple collision,80,Friday
+80,2023-08-28,17,38.7656,-9.1234,Lisboa,Olivais,Secondary,Clear,Daylight,Dry,1,1,0,0,0,Pedestrian hit,30,Monday
+81,2023-09-01,7,38.7089,-9.1678,Lisboa,Belém,Primary,Clear,Daylight,Dry,2,0,1,0,0,Rear-end collision,50,Friday
+82,2023-09-04,14,38.7489,-9.1123,Lisboa,Areeiro,Secondary,Clear,Daylight,Dry,2,0,0,0,0,Side collision,30,Monday
+83,2023-09-07,20,38.7734,-9.1456,Lisboa,Lumiar,Primary,Rain,Artificial light,Wet,3,0,0,1,0,Multiple collision,50,Thursday
+84,2023-09-10,10,38.7178,-9.1789,Lisboa,Marvila,Highway,Clear,Daylight,Dry,2,0,0,0,0,Rear-end collision,80,Sunday
+85,2023-09-13,16,38.7423,-9.1345,Lisboa,Misericórdia,Secondary,Cloudy,Daylight,Dry,1,1,1,0,0,Pedestrian hit,30,Wednesday
+86,2023-09-16,9,38.7623,-9.1567,Lisboa,Arroios,Primary,Clear,Daylight,Dry,2,0,0,0,0,Side collision,50,Saturday
+87,2023-09-19,13,38.7156,-9.1234,Lisboa,Campo de Ourique,Secondary,Clear,Daylight,Dry,2,0,1,0,0,Side collision,30,Tuesday
+88,2023-09-22,19,38.7378,-9.1678,Lisboa,Benfica,Primary,Clear,Artificial light,Dry,2,0,0,1,0,Rear-end collision,50,Friday
+89,2023-09-25,8,38.7712,-9.1123,Lisboa,Estrela,Highway,Rain,Daylight,Wet,4,0,2,0,0,Multiple collision,80,Monday
+90,2023-09-28,15,38.7245,-9.1456,Lisboa,Avenidas Novas,Secondary,Clear,Daylight,Dry,1,1,0,0,0,Pedestrian hit,30,Thursday
+91,2023-10-01,21,38.7534,-9.1789,Lisboa,Parque das Nações,Primary,Clear,Artificial light,Dry,2,0,1,0,0,Rear-end collision,50,Sunday
+92,2023-10-04,11,38.7089,-9.1345,Lisboa,Ajuda,Secondary,Cloudy,Daylight,Dry,2,0,0,0,0,Side collision,30,Wednesday
+93,2023-10-07,17,38.7456,-9.1567,Lisboa,Penha de França,Primary,Clear,Daylight,Dry,3,0,0,1,0,Multiple collision,50,Saturday
+94,2023-10-10,7,38.7789,-9.1234,Lisboa,Carnide,Highway,Clear,Daylight,Dry,2,0,0,0,0,Rear-end collision,80,Tuesday
+95,2023-10-13,14,38.7134,-9.1678,Lisboa,Alcântara,Secondary,Rain,Daylight,Wet,1,1,1,0,0,Pedestrian hit,30,Friday
+96,2023-10-16,20,38.7423,-9.1123,Lisboa,Beato,Primary,Clear,Artificial light,Dry,2,0,0,0,0,Side collision,50,Monday
+97,2023-10-19,10,38.7678,-9.1456,Lisboa,Alvalade,Secondary,Clear,Daylight,Dry,2,0,1,0,0,Side collision,30,Thursday
+98,2023-10-22,16,38.7234,-9.1789,Lisboa,Santa Clara,Primary,Cloudy,Daylight,Dry,2,0,0,1,0,Rear-end collision,50,Sunday
+99,2023-10-25,9,38.7567,-9.1345,Lisboa,São Domingos de Benfica,Highway,Clear,Daylight,Dry,4,0,2,0,0,Multiple collision,80,Wednesday
+100,2023-10-28,13,38.7312,-9.1567,Lisboa,Olivais,Secondary,Clear,Daylight,Dry,1,1,0,0,0,Pedestrian hit,30,Saturday
