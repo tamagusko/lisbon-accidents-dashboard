@@ -3,6 +3,10 @@ venv/
 env/
 .venv/
 
+# Backup folder
+bkp/
+todo/
+
 # Python
 __pycache__/
 *.py[cod]
